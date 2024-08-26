@@ -1,0 +1,6 @@
+@LemaApp_HostAddress = http://localhost:5195
+
+GET {{LemaApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
